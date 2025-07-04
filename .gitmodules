@@ -1,3 +1,6 @@
 [submodule "payment-system"]
 	path = payment-system
 	url = https://github.com/proHyundo/payment-system.git
+[submodule "settlement-system"]
+	path = settlement-system
+	url = https://github.com/proHyundo/settlement-system.git
